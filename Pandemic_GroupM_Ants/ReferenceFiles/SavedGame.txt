@@ -1,0 +1,342 @@
+22 serialization::archive 14 0 0 4 4 15 20 13 16 1 4 1 0 0 0 2 1 1 0
+0 2 1 0
+1 7 Atlanta 2 4 0 0 1 0 1 0 0 3 0 2
+2 5 Miami 0 4 2 0 0 0 0 4 0 2 1 2
+3 10 Washington 2 4 0 0 0 0 0 4 0 2 1 2 2 2
+4 8 New York 2 4 0 0 0 0 0 4 0 2 3 2
+5 8 Montreal 2 4 0 0 2 0 0 3 0 2 3 2
+6 7 Chicago 2 4 0 0 0 0 0 5 0 2 1 2
+7 11 Mexico City 0 4 0 0 0 0 0 5 0 2 2 2 6 2
+8 6 Bogota 0 4 1 0 0 0 0 5 0 2 2 2 7 2
+9 4 Lima 0 4 0 0 0 0 0 3 0 2 8 2 7 2
+10 8 Santiago 0 4 0 0 0 0 0 1 0 2 9 2
+11 9 Sao Paulo 0 4 0 0 0 0 0 4 0 2 8 2
+12 6 Madrid 2 4 0 0 1 0 0 5 0 2 4 2 11 2
+13 6 London 2 4 0 0 0 0 0 4 0 2 4 2 12 2
+14 5 Paris 2 4 0 0 1 0 0 5 0 2 13 2 12 2
+15 5 Essen 2 4 0 0 1 0 0 4 0 2 13 2 14 2
+16 5 Milan 2 4 0 0 3 0 0 3 0 2 14 2 15 2
+17 8 Istanbul 3 4 0 0 1 0 0 6 0 2
+18 7 Algiers 3 4 0 0 0 1 0 4 0 2 12 2 14 2
+19 5 Cairo 3 4 0 0 0 0 0 5 0 2 18 2
+20 8 Khartoum 0 4 0 0 0 0 0 4 0 2
+21 5 Lagos 0 4 2 0 0 0 0 3 0 2 11 2 20 2
+22 8 Kinshasa 0 4 2 0 0 0 0 3 0 2 21 2 20 2
+23 12 Johannesburg 0 4 0 0 0 0 0 2 0 2 20 2 22 2 22 2 19 2 23 2 17 2
+24 7 Baghdad 3 4 0 0 0 3 0 5 0 2 19 2 17 2
+25 6 Riyadh 3 4 0 0 0 1 0 3 0 2 19 2 24 2
+26 7 Karachi 3 4 0 0 0 0 1 5 0 2 24 2 25 2
+27 5 Delhi 3 4 0 0 0 0 0 5 0 2
+28 7 Kolkata 3 4 0 0 0 3 0 4 0 2
+29 9 Hong Kong 1 4 0 0 0 0 0 6 0 2
+30 6 Manila 1 4 0 0 0 0 0 5 0 2
+31 13 San Francisco 2 4 0 0 0 0 0 4 0 2 6 2
+32 11 Los Angeles 0 4 1 0 0 0 0 4 0 2 6 2 7 2 31 2
+33 6 Sydney 1 4 0 0 0 0 0 3 0 2 32 2 30 2
+34 7 Jakarta 1 4 0 1 0 0 0 4 0 2 33 2
+35 16 Ho Chi Minh City 1 4 0 0 0 0 0 4 0 2 30 2 29 2 34 2
+36 7 Bangkok 1 4 0 0 0 0 0 5 0 2 35 2 29 2 34 2 28 2
+37 7 Chennai 3 4 0 0 0 0 0 5 0 2 34 2 36 2 28 2 27 2
+38 6 Mumbai 3 4 0 0 0 0 0 3 0 2 37 2 27 2 26 2 36 2 37 2
+39 5 Tokyo 1 4 0 2 0 0 0 4 0 2 31 2
+40 5 Seoul 1 4 0 0 0 0 0 3 0 2 39 2
+41 6 Bejing 1 4 0 0 0 0 0 2 0 2 40 2
+42 8 Shanghai 1 4 0 1 0 0 0 5 0 2 39 2 40 2
+43 6 Taipei 1 4 0 0 0 0 0 4 0 2 30 2
+44 5 Osaka 1 4 0 0 0 0 0 2 0 2 39 2 43 2 29 2 42 2 29 2 41 2 42 2 44 2 42 2 30 2 33 2 43 2 35 2 29 2 43 2 35 2 42 2 36 2 28 2 36 2 37 2 27 2 37 2 38 2
+45 6 Tehran 3 4 0 0 0 0 0 4 0 2
+46 6 Moscow 3 4 0 0 0 0 0 3 0 2
+47 13 St Petersburg 2 4 0 0 1 0 0 3 0 2 15 2 17 2 46 2 17 2 45 2 24 2 27 2 26 2 26 2 38 2 45 2 45 2 26 2 25 2 17 2 16 2 47 2 19 2 46 2 24 2 47 2 18 2 16 2 15 2 14 2 18 2 21 2
+48 12 Buenos Aires 0 4 1 0 0 0 0 2 0 2 8 2 11 2 48 2 32 2 9 2 5 2 31 2 32 2 4 2 13 2 12 2 5 2 8 2 7 2 3 2 6 48 0 2 1 2 2 2 3 2 6 2 8 2 7 2 4 2 5 2 31 2 32 2 9 2 11 2 13 2 12 2 39 2 30 2 33 2 10 2 21 2 48 2 14 2 15 2 18 2 40 2 44 2 43 2 35 2 29 2 34 2 20 2 22 2 16 2 47 2 19 2 17 2 41 2 42 2 36 2 28 2 37 2 23 2 46 2 24 2 25 2 27 2 38 2 45 2 26 4 1 0
+49 0 0 45 0 6 1 0
+50 1 0
+51 9 Infection 5 Seoul 1 6
+52
+53 9 Infection 7 Chicago 2 6
+54
+55 9 Infection 6 Manila 1 6
+56
+57 9 Infection 6 Taipei 1 6
+58
+59 9 Infection 7 Chennai 3 6
+60
+61 9 Infection 13 San Francisco 2 6
+62
+63 9 Infection 5 Osaka 1 6
+64
+65 9 Infection 9 Sao Paulo 0 6
+66
+67 9 Infection 5 Delhi 3 6
+68
+69 9 Infection 7 Karachi 3 6
+70
+71 9 Infection 12 Johannesburg 0 6
+72
+73 9 Infection 11 Mexico City 0 6
+74
+75 9 Infection 8 New York 2 6
+76
+77 9 Infection 8 Santiago 0 6
+78
+79 9 Infection 5 Cairo 3 6
+80
+81 9 Infection 8 Istanbul 3 6
+82
+83 9 Infection 7 Bangkok 1 6
+84
+85 9 Infection 6 Bejing 1 6
+86
+87 9 Infection 10 Washington 2 6
+88
+89 9 Infection 4 Lima 0 6
+90
+91 9 Infection 6 Moscow 3 6
+92
+93 9 Infection 8 Khartoum 0 6
+94
+95 9 Infection 5 Essen 2 6
+96
+97 9 Infection 16 Ho Chi Minh City 1 6
+98
+99 9 Infection 9 Hong Kong 1 6
+100
+101 9 Infection 6 London 2 6
+102
+103 9 Infection 6 Sydney 1 6
+104
+105 9 Infection 6 Tehran 3 6
+106
+107 9 Infection 5 Paris 2 6
+108
+109 9 Infection 5 Lagos 0 6
+110
+111 9 Infection 13 St Petersburg 2 6
+112
+113 9 Infection 7 Algiers 3 6
+114
+115 9 Infection 7 Jakarta 1 6
+116
+117 9 Infection 11 Los Angeles 0 6
+118
+119 9 Infection 8 Shanghai 1 6
+120
+121 9 Infection 6 Madrid 2 6
+122
+123 9 Infection 7 Atlanta 2 6
+124
+125 9 Infection 6 Mumbai 3 6
+126
+127 9 Infection 7 Baghdad 3 6
+128
+129 9 Infection 6 Riyadh 3 6
+130
+131 9 Infection 8 Kinshasa 0 6
+132
+133 9 Infection 12 Buenos Aires 0 6
+134
+135 9 Infection 5 Miami 0 6
+136
+137 9 Infection 8 Montreal 2 6
+138
+139 9 Infection 5 Tokyo 1 2 0 6
+140
+141 9 Infection 7 Kolkata 3 6
+142
+143 9 Infection 5 Milan 2 4
+144 35 0 7 1 0
+145
+146 4 City 7 Baghdad 3 7
+147
+148 4 City 5 Milan 2 9 1 0
+149
+150 8 Epidemic 281 1. INCREASE 
+Move the Infection Rate Indicator up by 1.
+
+2. INFECT 
+Draw a card off the bottom of the Infection Draw Pile and infect the indicated city with 3 cubes.
+Discard the card.
+
+3. INTENSIFY 
+Shuffle the Infection Discard Pile and place it on top of the Infection Draw Pile. 7
+151
+152 4 City 5 Seoul 1 7
+153
+154 4 City 7 Chicago 2 7
+155
+156 4 City 6 Manila 1 7
+157
+158 4 City 6 Taipei 1 7
+159
+160 4 City 7 Chennai 3 7
+161
+162 4 City 13 San Francisco 2 7
+163
+164 4 City 5 Osaka 1 7
+165
+166 4 City 9 Sao Paulo 0 9
+167
+168 8 Epidemic 281 1. INCREASE 
+Move the Infection Rate Indicator up by 1.
+
+2. INFECT 
+Draw a card off the bottom of the Infection Draw Pile and infect the indicated city with 3 cubes.
+Discard the card.
+
+3. INTENSIFY 
+Shuffle the Infection Discard Pile and place it on top of the Infection Draw Pile. 7
+169
+170 4 City 5 Delhi 3 8 1 0
+171
+172 5 Event 15 One Quiet Night 73 Skip the next Infect Cities step. (Do not flip over any Infection Cards.) 7
+173
+174 4 City 12 Johannesburg 0 7
+175
+176 4 City 11 Mexico City 0 7
+177
+178 4 City 8 New York 2 7
+179
+180 4 City 8 Santiago 0 7
+181
+182 4 City 5 Cairo 3 7
+183
+184 4 City 8 Istanbul 3 7
+185
+186 4 City 7 Bangkok 1 9
+187
+188 8 Epidemic 281 1. INCREASE 
+Move the Infection Rate Indicator up by 1.
+
+2. INFECT 
+Draw a card off the bottom of the Infection Draw Pile and infect the indicated city with 3 cubes.
+Discard the card.
+
+3. INTENSIFY 
+Shuffle the Infection Discard Pile and place it on top of the Infection Draw Pile. 7
+189
+190 4 City 6 Bejing 1 7
+191
+192 4 City 10 Washington 2 7
+193
+194 4 City 4 Lima 0 9
+195
+196 8 Epidemic 281 1. INCREASE 
+Move the Infection Rate Indicator up by 1.
+
+2. INFECT 
+Draw a card off the bottom of the Infection Draw Pile and infect the indicated city with 3 cubes.
+Discard the card.
+
+3. INTENSIFY 
+Shuffle the Infection Discard Pile and place it on top of the Infection Draw Pile. 7
+197
+198 4 City 6 Moscow 3 7
+199
+200 4 City 8 Khartoum 0 7
+201
+202 4 City 5 Essen 2 8
+203
+204 5 Event 10 Government 44 Add a research station to any city for free. 8
+205
+206 5 Event 8 Forecast 129 Examine the top 6 cards of the Infection Draw Pile. Rearrange them in the order of your choice, then place them back on the pile. 7
+207
+208 4 City 6 London 2 7
+209
+210 4 City 6 Sydney 1 7
+211
+212 4 City 6 Tehran 3 7
+213
+214 4 City 5 Paris 2 2 0 8
+215
+216 5 Event 20 Resilient Population 134 Remove any 1 card in the Infection Discard Pile from the game. You may play this between the Infect and Intesify steps of an epidemic. 8
+217
+218 5 Event 7 Airlift 108 Move a pawn (yours or another player's) to any city. You must have a player's permission to move their pawn. 0 0 2 0 13 1 0
+219 0 2 2 0 0 6 0 7
+220
+221 4 City 16 Ho Chi Minh City 1 7
+222
+223 4 City 9 Hong Kong 1 7
+224
+225 4 City 13 St Petersburg 2 7
+226
+227 4 City 7 Jakarta 1 7
+228
+229 4 City 8 Kinshasa 0 7
+230
+231 4 City 7 Kolkata 3 15 1 0
+232
+233 9 Reference 1040 
+
+==================== BASIC ACTIONS ====================
+
+* Drive (or Ferry)
+  -> Move your pawn to an adjacent City.
+
+* Direct Flight
+  -> Discard a card to move your pawn to the City pictured on it.
+
+* Charter Flight
+  -> Discard the card showing your current City and move to any City on the board.
+
+* Shuttle Flight
+  -> Move to a City containing a Research Station if your pawn is in a City containing one.
+
+==================== SPECIAL ACTIONS ====================
+
+* Build a Research Station
+  -> Discard the card showing your current City to build a Research Station there.
+
+* Discover a Cure
+  -> Discard 5 cards of the same color to cure the disease of that color.
+  -> Your pawn must be in a City containing a Research Station.
+
+* Treat Disease
+  -> Remove a disease cube from the City your pawn occupies. If the cure has been found, remove ALL cubes of that color from the City.
+
+* Share Knowledge
+  -> Pass a card from one Player to another.
+  -> Bother Players' pawns must be in the City pictured on the card that is passed.
+ 10 1 0
+234
+235 4 Role 17 Operations Expert 5 Green 181 As an action, build a Research Station in the City you are in (no discard needed). Once per turn, as an action, move from a Research Station to any City by discarding any City card. 13
+236 1 2 1 3 0 7
+237
+238 4 City 5 Tokyo 1 7
+239
+240 4 City 8 Shanghai 1 7
+241
+242 4 City 6 Mumbai 3 15
+243
+244 9 Reference 1040 
+
+==================== BASIC ACTIONS ====================
+
+* Drive (or Ferry)
+  -> Move your pawn to an adjacent City.
+
+* Direct Flight
+  -> Discard a card to move your pawn to the City pictured on it.
+
+* Charter Flight
+  -> Discard the card showing your current City and move to any City on the board.
+
+* Shuttle Flight
+  -> Move to a City containing a Research Station if your pawn is in a City containing one.
+
+==================== SPECIAL ACTIONS ====================
+
+* Build a Research Station
+  -> Discard the card showing your current City to build a Research Station there.
+
+* Discover a Cure
+  -> Discard 5 cards of the same color to cure the disease of that color.
+  -> Your pawn must be in a City containing a Research Station.
+
+* Treat Disease
+  -> Remove a disease cube from the City your pawn occupies. If the cure has been found, remove ALL cubes of that color from the City.
+
+* Share Knowledge
+  -> Pass a card from one Player to another.
+  -> Bother Players' pawns must be in the City pictured on the card that is passed.
+ 10
+245
+246 4 Role 10 Dispatcher 4 Pink 104 Move another player's pawn as if it were yours. As an action, move any pawn to a City with another pawn.

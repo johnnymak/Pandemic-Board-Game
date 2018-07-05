@@ -1,0 +1,53 @@
+City 2 Atlanta
+City 0 Miami
+City 2 Washington
+City 2 Chicago
+City 0 Bogota
+City 0 Mexico City
+City 2 New York
+City 2 Montreal
+City 2 San Francisco
+City 0 Los Angeles
+City 0 Lima
+City 0 Sao Paulo
+City 2 London
+City 2 Madrid
+City 1 Tokyo
+City 1 Manila
+City 1 Sydney
+City 0 Santiago
+City 0 Lagos
+City 0 Buenos Aires
+City 2 Paris
+City 2 Essen
+City 3 Algiers
+City 1 Seoul
+City 1 Osaka
+City 1 Taipei
+City 1 Ho Chi Minh City
+City 1 Hong Kong
+City 1 Jakarta
+City 0 Khartoum
+City 0 Kinshasa
+City 2 Milan
+City 2 St Petersburg
+City 3 Cairo
+City 3 Istanbul
+City 1 Bejing
+City 1 Shanghai
+City 1 Bangkok
+City 3 Kolkata
+City 3 Chennai
+City 0 Johannesburg
+City 3 Moscow
+City 3 Baghdad
+City 3 Riyadh
+City 3 Delhi
+City 3 Mumbai
+City 3 Tehran
+City 3 Karachi
+Event Airlift; Move a pawn (yours or another player's) to any city. You must have a player's permission to move their pawn.
+Event One Quiet Night; Skip the next Infect Cities step. (Do not flip over any Infection Cards.)
+Event Forecast; Examine the top 6 cards of the Infection Draw Pile. Rearrange them in the order of your choice, then place them back on the pile.
+Event Government; Add a research station to any city for free.
+Event Resilient Population; Remove any 1 card in the Infection Discard Pile from the game. You may play this between the Infect and Intesify steps of an epidemic.
