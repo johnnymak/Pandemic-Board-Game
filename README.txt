@@ -2,10 +2,10 @@
 | COMP345 - PROJECT BUILD #1| 
 |			    |
 | PROGRAMMED BY:	    |
-| Philip Michael (40004861) |
-| Amanda Friesen (27596189) |
-| Johnny Mak	 (40002140) |
-| Jason Kalec    (40009464) |
+| Philip Michael 	    |
+| Amanda Friesen 	    |
+| Johnny Mak	     	    |
+| Jason Kalec     	    |
 |			    |
 | PRESENTED TO:		    |
 | Prof. Nora Houari	    |
